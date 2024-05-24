@@ -1,0 +1,4 @@
+api.openweathermap.org/data/2.5/weather?q=Lucknow&appid=13a711824b05b3dd7e95f463f5f06ae1
+api.openweathermap.org/data/2.5/weather?q=Prayagraj&appid=23e12dfdd50ddb071a33115ac5b68ec5
+@import url('https://fonts.googleapis.com/css2?family=Quicksand&display=swap');
+font-family: "Quick-sand,sans-serif";
